@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Lesson1 spring-app-1" />
         <module name="spring-app-1" />
+        <module name="Lesson2 IoC" />
       </profile>
     </annotationProcessing>
   </component>
